@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShazimC
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript & typescript in depth
+- 🌱 I’m currently learning typescript in depth
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: gogito.3000@gmail.com
 

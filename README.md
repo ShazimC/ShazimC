@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @ShazimC.
 - 👀 I’m interested in building to help people.
-- 🌱 I’m currently practicing DS & Algorithms.
-- 💞️ I’m looking to collaborate on physics projects at the moment.
-- 📫 How to reach me: gogito.3000@gmail.com.
+- 💞️ I’m currently working as a Design Engineer at Xbox.
 
-<!---
-ShazimC/ShazimC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My site - [shaz.im](https://shaz.im)
